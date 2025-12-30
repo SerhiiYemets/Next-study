@@ -1,0 +1,5 @@
+# Все текстовые файлы использовать LF
+* text=auto eol=lf
+
+# Специфические для Windows форматы
+*.bat text eol=crlf
